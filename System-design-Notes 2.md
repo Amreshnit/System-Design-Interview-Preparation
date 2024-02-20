@@ -1,5 +1,5 @@
 
-# System Design 101
+# System Design
 
 Explain complex systems using visuals and simple terms. 
 
