@@ -1,0 +1,36 @@
+# System Design Learning Resources
+
+Welcome to the System Design Learning Resources repository! This curated list includes 30 insightful blog posts to help you learn and understand various aspects of system design. Each blog provides valuable information on different topics that are crucial for mastering system design principles.
+
+1. [Content Delivery Network (CDN)](https://www.cloudflare.com/learning/cdn/what-is-a-cdn/)
+2. [Caching](https://medium.com/must-know-computer-science/system-design-caching-acbd1b02ca01)
+3. [Distributed Caching](https://redis.com/glossary/distributed-caching/)
+4. [Latency vs Throughput](https://aws.amazon.com/compare/the-difference-between-throughput-and-latency/)
+5. [CAP Theorem](https://www.bmc.com/blogs/cap-theorem/)
+6. [Load Balancing](https://aws.amazon.com/what-is/load-balancing/)
+7. [ACID Transactions](https://redis.com/glossary/acid-transactions/)
+8. [SQL vs NoSQL](https://www.integrate.io/blog/the-sql-vs-nosql-difference/)
+9. [Consistent Hashing](https://arpitbhayani.me/blogs/consistent-hashing/)
+10. [Database Index](https://www.progress.com/tutorials/odbc/using-indexes)
+11. [Rate Limiting](https://www.imperva.com/learn/application-security/rate-limiting/)
+12. [Microservices Architecture](https://medium.com/hashmapinc/the-what-why-and-how-of-a-microservices-architecture-4179579423a9)
+13. [Strong vs Eventual Consistency](https://hackernoon.com/eventual-vs-strong-consistency-in-distributed-databases-282fdad37cf7)
+14. [REST vs RPC](https://aws.amazon.com/compare/the-difference-between-rpc-and-rest/)
+15. [Batch Processing vs. Stream Processing](https://atlan.com/batch-processing-vs-stream-processing/)
+16. [HeartBeat](https://martinfowler.com/articles/patterns-of-distributed-systems/heartbeat.html)
+17. [Circuit Breaker](https://medium.com/geekculture/design-patterns-for-microservices-circuit-breaker-pattern-276249ffab33)
+18. [Idempotency](https://blog.dreamfactory.com/what-is-idempotency/)
+19. [Database Scaling](https://thenewstack.io/techniques-for-scaling-applications-with-a-database/)
+20. [Data Replication](https://redis.com/blog/what-is-data-replication/)
+21. [Data Redundancy](https://www.egnyte.com/guides/governance/data-redundancy)
+22. [Database Sharding](https://www.mongodb.com/features/database-sharding-explained)
+23. [Proxy Server](https://www.fortinet.com/resources/cyberglossary/proxy-server)
+24. [Domain Name System (DNS)](https://www.cloudflare.com/learning/dns/what-is-dns/)
+25. [Message Queues](https://medium.com/must-know-computer-science/system-design-message-queues-245612428a22)
+26. [WebSockets](https://www.pubnub.com/guides/websockets/)
+27. [Consensus Algorithms](https://medium.com/@sourabhatta1819/consensus-in-distributed-system-ac79f8ba2b8c)
+28. [API Gateway](https://www.nginx.com/learn/api-gateway/)
+29. [Distributed Locking](https://martin.kleppmann.com/2016/02/08/how-to-do-distributed-locking.html)
+30. [Checksum](https://www.lifewire.com/what-does-checksum-mean-2625825)
+
+Feel free to explore each blog post to deepen your understanding of system design concepts. Happy learning!
